@@ -1,4 +1,5 @@
 # Date Range Picker for Bootstrap
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Robinson7D/bootstrap-daterangepicker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ![Improvely.com](http://i.imgur.com/LbAMf3D.png)
 
